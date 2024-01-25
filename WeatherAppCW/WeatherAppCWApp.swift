@@ -2,7 +2,7 @@
 //  WeatherAppCWApp.swift
 //  WeatherAppCW
 //
-//  Created by Adeesha Arunoda Gunawardana on 5/1/2024.
+//  Created by Adeesha Arunoda Gunawardana on 26/11/2023.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct WeatherAppCWApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationBar()
         }
     }
 }
